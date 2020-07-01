@@ -5412,11 +5412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JuninhoDRZ\\source\\repos\\JoaoluizDev\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
+      "projectUniqueName": "C:\\Users\\JuninhoDRZ\\source\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
       "projectName": "JoaoLuizDevAdmin",
-      "projectPath": "C:\\Users\\JuninhoDRZ\\source\\repos\\JoaoluizDev\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
+      "projectPath": "C:\\Users\\JuninhoDRZ\\source\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
       "packagesPath": "C:\\Users\\JuninhoDRZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JuninhoDRZ\\source\\repos\\JoaoluizDev\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\obj\\",
+      "outputPath": "C:\\Users\\JuninhoDRZ\\source\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JuninhoDRZ\\AppData\\Roaming\\NuGet\\NuGet.Config",

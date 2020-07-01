@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cz//ggoMY6Ux6NeHPB5OswZJ57YeWC41IVUXr2v4ej24Jr/NjcxHNYEjwLTRwx4cHAMNqUv04iPVETy/Fhr0sw==",
+  "dgSpecHash": "n1i96HR/TdcIRLcNz13PJKfPbH/7EIknDa2Z9Q2ce6zVuy9eIpg4EJHzn8XC5vWgUShj2r6a/73ztNFinSuyEQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JuninhoDRZ\\source\\repos\\JoaoluizDev\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
+  "projectFilePath": "C:\\Users\\JuninhoDRZ\\source\\JoaoLuizDev\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin\\JoaoLuizDevAdmin.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuninhoDRZ\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.5\\microsoft.aspnetcore.cryptography.internal.3.1.5.nupkg.sha512",
     "C:\\Users\\JuninhoDRZ\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.5\\microsoft.aspnetcore.cryptography.keyderivation.3.1.5.nupkg.sha512",
