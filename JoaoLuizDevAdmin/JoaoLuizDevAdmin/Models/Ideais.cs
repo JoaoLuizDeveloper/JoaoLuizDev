@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace JoaoLuizDevAdmin.Models
 {
-    public class Ideais
+    public partial class Ideais
     {
         public int Id { get; set; }
         public string Titulo { get; set; }

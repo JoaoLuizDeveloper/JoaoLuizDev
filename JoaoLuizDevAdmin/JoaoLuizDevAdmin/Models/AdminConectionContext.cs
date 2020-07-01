@@ -17,6 +17,7 @@ namespace JoaoLuizDevAdmin.Models
         }
 
         public virtual DbSet<SocialMedia> SocialMedia { get; set; }
+        public virtual DbSet<User> Usuario { get; set; }
 
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

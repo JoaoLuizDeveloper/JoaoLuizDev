@@ -21,7 +21,7 @@ namespace JoaoLuizDev.Controllers
 
         public IActionResult Index()
         {
-            ViewBag.Redes = db.SocialMedia.FirstOrDefault();
+            ViewBag.Redes = "";
             return View();
         }
     }
