@@ -4,29 +4,27 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using JoaoLuizDev.Models;
 
 namespace JoaoLuizDev.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private DefaultConectionContext db;
+        public static List<SocialMedia> Destaques = null;
 
-        public HomeController(ILogger<HomeController> logger)
+
+        public HomeController(DefaultConectionContext contexto)
         {
-            _logger = logger;
+            db = contexto;
         }
 
         public IActionResult Index()
         {
+            ViewBag.Redes = db.SocialMedia.FirstOrDefault();
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
